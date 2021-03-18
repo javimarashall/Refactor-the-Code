@@ -34,7 +34,7 @@ https://github.com/javimarashall/Refactor-the-Code
 https://javimarashall.github.io/Refactor-the-Code/
 
 ## Personal Links
-[Github](https://github.com/javimarashall)
+[Github](https://github.com/javimarashall)<br>
 [Linkin](https://www.linkedin.com/in/javier-mondragon-7b471719b/)
 
 
