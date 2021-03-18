@@ -1,7 +1,7 @@
 # Refactor-the-Code
 
 ## 
-![site](file:///C:/Users/Javier/Desktop/Refactor-the-Code/Develop/index.html)
+[site](./assets/images/Site-Photo.png)
 
 ## Technology used for edits
 - HTML - Used to create the code for the website
@@ -35,7 +35,7 @@ https://javimarashall.github.io/Refactor-the-Code/
 
 ## Personal Links
 [Github](https://github.com/javimarashall)<br>
-[Linkin](https://www.linkedin.com/in/javier-mondragon-7b471719b/)
+[Linkedin](https://www.linkedin.com/in/javier-mondragon-7b471719b/)
 
 
 
