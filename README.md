@@ -18,13 +18,13 @@ on the results of better online presence that lead to a successful business
 This code snippet represents a much better organization of the style.css code after being consolidated 
 because it gets rid-off a lot of repetition within the code
 
-- .search-engine-optimization, .online-reputation-management, .social-media-marketing {
--    margin-bottom: 20px;
--    padding: 50px;
--    height: 300px;
--    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
--    background-color: #0072bb;
--    color: #ffffff;
+` .search-engine-optimization, .online-reputation-management, .social-media-marketing {
+`    margin-bottom: 20px;
+`    padding: 50px;
+    height: 300px;<br>
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;<br>
+    background-color: #0072bb;<br>
+    color: #ffffff;<br>
 }
 
 ## Repository Link
