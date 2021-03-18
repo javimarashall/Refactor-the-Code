@@ -1,7 +1,7 @@
 # Refactor-the-Code
 
 ## 
-[site](./assets/images/Site-Photo.png)
+![site](./assets/images/Site-Photo.png)
 
 ## Technology used for edits
 - HTML - Used to create the code for the website
